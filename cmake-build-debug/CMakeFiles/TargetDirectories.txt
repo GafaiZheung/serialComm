@@ -1,0 +1,3 @@
+/Users/gafaizheung/CLionProjects/serialComm/cmake-build-debug/CMakeFiles/serialComm.dir
+/Users/gafaizheung/CLionProjects/serialComm/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/gafaizheung/CLionProjects/serialComm/cmake-build-debug/CMakeFiles/rebuild_cache.dir
